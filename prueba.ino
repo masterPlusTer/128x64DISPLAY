@@ -25,8 +25,8 @@ void loop() {
     u8g.setColorIndex(0);        // Color blanco para texto
     
     // Texto centrado (ajusta coordenadas Y si está corrido)
-    u8g.drawStr(10, 30, "Texto bien posicionado");
-    u8g.drawStr(15, 50, "Sin artefactos");
+    u8g.drawStr(1, 12, "yyyyyyyyyyyyyyyyyyyyyyyyyy");
+    u8g.drawStr(1, 60, "xxxxxxxxxxxxxxxxxxxxxxxxx");
     
     // Dibuja un marco para referencia visual
     u8g.setColorIndex(1);
