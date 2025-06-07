@@ -1,3 +1,6 @@
+// ingresa un valor decimal por consola y el display te mostrara lo que hay en esa direccion de memoria 
+
+
 #include <SPI.h>
 
 #define LCD_RST    8  // optional, not necessary
